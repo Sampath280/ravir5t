@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "new-folder-(7)": {
+      "appLocation": "src",
+      "outputLocation": ".",
+      "dataApiLocation": "swa-db-connections",
+      "appName": "ssmp777784",
+      "resourceGroup": "ssmp777784-rg"
+    }
+  }
+}
